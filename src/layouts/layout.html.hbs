@@ -1,0 +1,37 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>{{ title }}</title>
+  <meta name="description" content="{{ description }}">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" type="text/css" href="/assets/css/style.css">
+</head>
+<body>
+  {{> navbar }}
+  <section class="hero is-fullheight is-primary is-bold">
+    <div class="hero-body">
+      <div class="container">
+        <h1 class="title">
+          {{ title }}
+        </h1>
+        <h2 class="subtitle">
+          {{ description }}
+        </h2>
+      </div>
+    </div>
+  </section>
+
+  {{{ contents }}}
+  {{#each blog }}
+      <li>
+        <div class="title"><a href="{{ path }}">{{ title }}</a></div>
+        <div class="date">{{ date }}</div>
+      </li>
+    {{/each}}
+  <footer>
+    <p>Generated with {{ generator }} &mdash; <a href="{{ url }}">{{ url }}</a></p>
+  </footer>
+
+</body>
+</html>
