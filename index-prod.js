@@ -12,6 +12,10 @@ var pagination = require('metalsmith-pagination');
 
 handlebars.registerHelper('moment', require('helper-moment'));
 
+handlebars.registerHelper('add',function(a, b) {
+  return a + b;
+});
+
 // limit an array to a maximum of elements (from the start)
 handlebars.registerHelper('limit', function (arr, limit) {
   if (!Array.isArray(arr)) { return []; }
