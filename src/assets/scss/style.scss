@@ -55,3 +55,11 @@ body {
 .f-sans {
   font-family: 'Karla', sans-serif !important;
 }
+
+// Front page
+.front-page-articles {
+  flex-direction: column;
+  @include from($tablet) {
+    flex-direction: row;
+  }
+}

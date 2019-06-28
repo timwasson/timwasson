@@ -8,8 +8,23 @@ var handlebars = require('handlebars');
 var browserSync = require('metalsmith-browser-sync');
 var sass = require('metalsmith-sass');
 var discoverPartials = require('metalsmith-discover-partials');
+var pagination = require('metalsmith-pagination');
 
 handlebars.registerHelper('moment', require('helper-moment'));
+
+// limit an array to a maximum of elements (from the start)
+handlebars.registerHelper('limit', function (arr, limit) {
+  if (!Array.isArray(arr)) { return []; }
+  return arr.slice(0, limit);
+});
+
+handlebars.registerHelper('add',function(a, b) {
+  return a + b;
+});
+
+handlebars.registerHelper('ifEquals', function(arg1, arg2, options) {
+  return (arg1 == arg2) ? options.fn(this) : options.inverse(this);
+});
 
 Metalsmith(__dirname)
   .metadata({
@@ -37,8 +52,23 @@ Metalsmith(__dirname)
       reverse: true
     },
   }))
+  
+  .use(pagination({
+    'collections.blog': {
+      perPage: 5,
+      layout: 'archive.html.hbs',
+      first: 'archive/index.html',
+      path: 'archive/:num/index.html',
+      //filter: function (page) {
+      //  return !page.private
+      //},
+      //pageMetadata: {
+      //  title: 'Archive'
+      //}
+    }
+  }))
   .use(layouts({
-    engine: 'handlebars',
+    engine: 'twig',
     directory: './src/layouts',
   }))
   .use(browserSync({
