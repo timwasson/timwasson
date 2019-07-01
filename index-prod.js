@@ -9,6 +9,7 @@ var browserSync = require('metalsmith-browser-sync');
 var sass = require('metalsmith-sass');
 var discoverPartials = require('metalsmith-discover-partials');
 var pagination = require('metalsmith-pagination');
+var htaccess = require('metalsmith-htaccess');
 
 handlebars.registerHelper('moment', require('helper-moment'));
 
@@ -66,6 +67,11 @@ Metalsmith(__dirname)
   .use(layouts({
     engine: 'twig',
     directory: './src/layouts',
+  }))
+  .use(htaccess({
+    "rewrite": {
+      "httpsRedirect": true,
+    }
   }))
   .build(function(err, files) {
     if (err) { throw err; }
