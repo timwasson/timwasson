@@ -69,5 +69,8 @@ Metalsmith(__dirname)
   }))
   .build(function(err, files) {
     if (err) { throw err; }
+    else {
+      console.log("site regenerated successfully");
+    }
   });
   
