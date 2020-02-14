@@ -1,0 +1,30 @@
+@import '../node_modules/bootstrap/scss/bootstrap.scss';
+
+/* Homepage */
+.homepage.jumbotron {
+  
+  overflow: hidden;
+  .jumbobg {
+    background-image: url("../img/loadingbg.svg");
+    background-size: cover;
+    background-position: center;
+    filter: blur(10px);
+    height: calc(100% + 20px);
+    left: -10px;
+    transition: filter .5s;
+    top: -10px;
+    width: calc(100% + 20px);
+  }
+  &:hover {
+    .jumbobg {
+      filter: blur(0);
+    }
+  }
+}
+.logo {
+  text-align: center;
+  svg {
+    fill: white;
+    max-width: 300px;
+  }
+}

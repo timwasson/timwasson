@@ -1,0 +1,16 @@
+{
+  "title": "timwasson.com",
+  "url": "https://timwasson.com/",
+  "description": "reviving an ancient blog.",
+  "feed": {
+    "subtitle": "reviving an ancient blog.",
+    "filename": "feed.xml",
+    "path": "/feed/feed.xml",
+    "url": "https://timwasson.com/feed/feed.xml",
+    "id": "https://timwasson.com/"
+  },
+  "author": {
+    "name": "tim wasson",
+    "email": "wasson@gmail.com"
+  }
+}

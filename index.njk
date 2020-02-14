@@ -1,0 +1,35 @@
+---
+layout: layouts/home.njk
+tags:
+  - nav
+navtitle: Home
+---
+
+<div class="jumbotron jumbotron-fluid homepage position-relative">
+  <div class="jumbobg position-absolute"></div>
+  <div class="container">
+    <h1 class="sr-only">timwasson</h1>
+    <div class="logo position-relative">
+      {% include "img/logo.svg" %}
+    </div>
+  </div>
+</div>
+<div class="container">
+  <div class="row">
+    <div class="card-deck">
+      {% set postslist = collections.posts | head(-3) %}
+      {% include "postslist.njk" %}
+    </div>
+  </div>
+</div>
+
+<script>
+  console.log("hello");
+  $.ajax({
+    url: "https://www.instagram.com/wasson/?__a=1",
+  })
+  .done(function( data ) {
+    $(".homepage.jumbotron .jumbobg")
+      .css("background-image","url(" + data.graphql.user.edge_owner_to_timeline_media.edges[Math.floor(Math.random()*10)].node.display_url + ")");
+  });
+</script>
