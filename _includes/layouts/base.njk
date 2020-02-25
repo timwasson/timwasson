@@ -10,7 +10,7 @@
     <script src="https://code.jquery.com/jquery-3.4.1.min.js" integrity="sha256-CSXorXvZcTkaix6Yvo6HppcZGetbYMGWSFlBw8HfCJo=" crossorigin="anonymous"></script>
   </head>
   <body>
-
+{% if page.url != "/" %}
     <nav class="navbar navbar-expand-lg navbar-light bg-light">
   <a class="navbar-brand" href="{{ '/' | url }}">{{ metadata.title }}</a>
   <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
@@ -26,13 +26,13 @@
     </ul>
   </div>
 </nav>
-
+{% endif %}
     <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
       {{ content | safe }}
     </main>
 
     <footer></footer>
 
-    <!-- Current page: {{ page.url | url }} -->
+    {# Current page: {{ page.url | url }} #}
   </body>
 </html>
