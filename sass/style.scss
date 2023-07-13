@@ -44,6 +44,12 @@ body {
   text-decoration: none;
   text-shadow: black 2px 2px;
   text-transform: uppercase;
+  &:hover {
+    border-left-color: black;
+    border-top-color: black;
+    border-right-color: white;
+    border-bottom-color: white;
+  }
 }
 
 .logo-bg { 

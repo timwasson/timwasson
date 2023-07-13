@@ -2,7 +2,7 @@
     <a class="font-pixel text-dark logo-bg p-3 text-center d-block mb-3" href="{{ '/' | url }}">{{ metadata.title }}</a>
     <ul class="list-unstyled">
       {%- for nav in collections.nav | reverse -%}
-        <li>
+        <li class="mb-1">
             <a class="btn old-school w-100{% if nav.url == page.url %} active{% endif %}" href="{{ nav.url | url }}">{{ nav.data.navtitle }}</a>
         </li>
     {%- endfor -%}
