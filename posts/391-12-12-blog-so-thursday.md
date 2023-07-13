@@ -1,0 +1,25 @@
+---
+permalink: "blog/so-thursday/"
+tags: posts
+title: So on Thursday
+date: 2004-12-12
+layout: layouts/post.njk
+---
+
+So on Thursday Angie and I had our office Christmas parties, but made plans to call each other around 8:00 for an excuse to leave and meet up for drinks. I left my party around 8:15 or so and went home. Around 9:30 I'd given up hope that she would call and prepared for bed. A few minutes later, she calls asking me to go to American Pi with her and some of her work friends. I reluctantly accept her invitation, since she sounded like she really needed to talk to me about something. 
+
+At American Pi she was being a stumbling, bumbling drunk, falling over people and slurring her speech like crazy. She kept hanging on me and grabbing me and hugging me. She's an affectionate girl and none of this is out of the ordinary, but I've been getting the impression the last few weeks that maybe she wants to be more than friends. So I was being a bit paranoid about it. When she started kissing my cheek incessently, I figured something was up. When she hugged me and kissed my neck, I knew something was odd. 
+
+A few times during the night, she told me she loved me. Angie and I are no strangers to saying we love each other, but we usually do it in the same fashion Polk and I say it to each other. Like "Yeah, love you too, buddy." She seemed to say it with a lot more...um... meaning, I guess? I don't know. I tried to laugh it off, but she kept saying things like "No, you don't get it. I love you. In that other way. You don't love me in that way." I tried to tell her that I'd be glad to talk about this when she was a little more sober, but it's hard to reason with a drunk person like that.
+
+Anyway, so her friend Pam kind of stepped in at some point and pulled Angie away from me to have a talk with her in another part of the bar. I took the time to make friends with a stranger named Derek who was impressed by the patience I showed with the 8 drunk girls I was with. He seemed like a nice guy.
+
+So when Angie came back from her little talk with Pam, she walked up to me, stood in between my legs as I was sitting on a bar stool, put her forehead to mine and said "Tim, I love you." A second later her tongue was in my mouth and her friends were clapping and cheering for her. The display lasted about 30 seconds before I broke it off, figuring she would be embarrassed about it, either by me or her coworkers. She put her head on my chest and apologized profusely. I tried to tell her it was okay. The event was repeated a couple times that night, once even being documented by Angie's camera phone. So I took her home, took her dog out for her, and made sure she made it to bed with a bucket just in case. I got home and emailed Steph to ask for girl advice regarding the matter.
+
+Ever since, it's been on my mind. And not one of those things that's on your mind in the background, it's one of those things that I try to turn off and I can't figure out how. It's a delicate situation that I don't want to explode in my face. Or hers. I've tried a few times to discuss it with her, but she plays the "blackout" card, saying she doesn't remember anything and isn't interested in me telling her what happened. Things aren't awkward between us, though. I mean, there's nothing "wrong", anyway, but I do think there's reason for a bit of unusual activity or uncomfortable moments. We don't have those. And that's a good thing.
+
+So, how do I feel about Angie, you ask? I mean, that's an important question since if I don't feel anything for her, then I guess I could just forget the situation ever happened and be done with it. But honestly, I think Angie and I would make a good couple and I would be open to a relationship. There's some things holding me back, but all of them are easily overcome. The biggest issue right now is that I like being single and don't really have any desire to have a girlfriend. Angie isn't the type I could casually date, due to us being friends for the like 12 years or so. We'd have to make the jump immediately into relationship, and I don't know if I want that, necessarily. I do feel like we could become the victims of inaction if Angie keeps refusing to talk about it. The last thing I want is for that one night to be confessed to, then neither of us do anything while knowing the other wouldn't be opposed to the idea. Does that make sense? 
+
+I don't know if I love her any more than I love any of my other friends. I think I probably do, though. I know I look forward to seeing her, no matter how I often I see her. I never get sick of being around her like I do with some of my friends. I seem to laugh more when we're together. But the "love" word is a big one for me. 
+
+Anyway, my fingers are crossed that she'll want to talk to me about it eventually. Until then, color me confused.

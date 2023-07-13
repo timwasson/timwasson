@@ -1,6 +1,5 @@
 node_modules
-src/posts
 build
 _site
 css
-posts
+.DS_Store

@@ -1,0 +1,17 @@
+---
+permalink: "blog/ah-last-night/"
+tags: posts
+title: Ah last night.
+date: 2001-06-15
+layout: layouts/post.njk
+---
+
+Ah, last night.
+
+Alan works at the Peoria Airport, and its his job to watch the weather and call it into the pilots and whatever, so when I see him, I ask him for the lastest weather updates. Usually this is just because I want to know when it will rain, so I know the best time to wash my car or so I can leave the top down a few days. Well, on Wednesday he told me it would be raining last night. But on my way home from work, I had the top down and the skies were crystal clear... not a cloud in them. I figured Alan was wrong, so I was planning on leaving my top down that night. So, I go into the apartment and start to finish up Cast Away, when, not even 20 minutes later, I hear this horrible wind blowing around outside. It sounded almost like rain. So I run out to my Jeep and start putting the top back up, which proved to be very difficult with all the wind. Dirt was flying everywhere, right into my eyes and into the various zippers I had to zip. But, I got the top up just as it started to sprinkle, and a few seconds later, it was a full blown hurricane. On my way into the apartment, the crazy old lady who lives in my building was just watching me and shaking her head. That lady freaks me out. 
+
+So, after that little adventure, I watched some TV until Steph called, and we chatted for a while. Then Angie called, cancelling our plans to go to Gormans. Then I guilted her into going. Then Brice called. Then I went to Angie's to pick up Steph, and we went to Gormans. It was a good time... it was me, Brice, Steph, Fuller, Callahan, Mullens, some guy named Andy, some girl named Jamie, and after work, Fabish stopped by. I had a few beers, a few hot wings, and a few cheeseballs. It was fun. 
+
+Then I went to sleep, despite a party that was going on in the apartment above mine. I fell asleep pretty quickly, which is rare, but I woke up again at around 3 am, and for some reason, it's always harder for me to go back to sleep than to go to sleep the first time. So, I laid there doing nothing for like 45 minutes, listening to the horrible music from the party upstairs. 
+
+I had this dream last night though... I dreampt I was living in this huge penthouse apartment with the devil and one of his henchmen. I didn't really fit in, but I was trying so hard for them to like me, but it always rubbed me the wrong way when they would go out together and leave me alone. Well, one night I helped the devil set a trap in the front door of the apartment building. It would trap the unsuspecting victims in there, and the devil would kill them later. I was fine with his plan, until it started trapping people I knew. It trapped one girl who I've never seen before, but in the dream, she was one of my best friends. I tried to help her out of the trap, but nothing was working. I found a scrap of paper on the ground that said "1113", and I figured it was some sort of code to get her out. I told her what to do, but instead of waiting for her to get out, I ran back up to the penthouse and waited, and in a matter of minutes, she was at my penthouse door. I got really upset, saying that she should have run away when she got out instead of coming deeper into the building. When the devil came back, I had to hide her in a closet and lower her out of my window. I freed a couple more people that night, all with similar results. I have no idea what any of this means.

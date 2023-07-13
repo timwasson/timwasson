@@ -1,0 +1,29 @@
+---
+permalink: "blog/oh-man-i/"
+tags: posts
+title: Oh man I
+date: 2000-12-04
+layout: layouts/post.njk
+---
+
+Oh man, I had the weirdest dreams last night. I dreamed that I went away to high school. The weird part is that the people I would be going to school with all looked about 21 or 22, and they were all people in my class in grade school. I was sharing a room with some friends of mine, and (this is a recurring theme in my dreams) the door to our room was like 3 feet tall and 2 feet wide. This isn't nearly big enough for my big screen TV, so we spent the majority of the dream figuring out how to make it fit. We talked to my dad, the "dean" of the school (my grade school principal), and finally I just woke up. We never did get that TV in there. There's weird parts of the dream I don't completely remember. I remember walking down the hall with a girl I used to have a crush on... you know, one of those "3rd grade and I finally like girls" crushes. I've still had some casual contact with her over the years, as a friend of a friend type relationship, but that's not the point. We were talking about whatever we were talking about and all the sudden she kissed me on the cheek and ran away. There are other parts I can remember, but they would just bored you. 
+
+So, this weekend... from the top. Friday night I got home and returned the calls on my answering machine. I was invited to go to a friend's apartment because he was making dinner and wanted to offer me some. Plus he didn't have to go to work until 11 that night, so we could hang out a little longer than usual. I also called a girlfriend of mine, but she was in class, so I would call her from my friend's place. 
+
+I went over, ate dinner, and about 7:30 I called her back. She said she was going to a bar with her roommates (one of which is the girl I'm infatuated with). I figured this was the best time in the world to test my new found braveness with the opposite sex. The girl I like goes to the bars occasionally, but more often than not she opts to stay home. If we went to the bar, I was going to hit on her and ask her out and stuff. If she opted to stay home, I would offer to keep her company... we could watch a movie or something. I'm a sly dog, no?
+
+Well, if I stuck around his apartment until 11 I would more than likely miss anything going on. So, I explained this to him, he understood, and I left with the understanding that my girlfriend would call me back with the concrete bar plans later that night. I went back to my place, showered, changed, brushed my teeth, etc. I wasn't expecting to go out before 10 or so, so when I hadn't gotten a phone call by 10:30 I wasn't worried. She's reliable. by 11:15 I was getting worried. By midnight I knew she wasn't going to call. Luckily I had made plans with another friend of mine. He was working until 12:30 and they were hitting the bars downtown afterward. He was supposed to call me at 12:45 or 1 and he didn't either. I sat at home and did nothing all night.
+
+The next day I learned that the guy had a wrong number and had been trying to contact me. Okay, no big deal. But the girl was still unexcused. I'm way too proud to call someone saying "why didn't you call me?"... I mean, they said they would call me and they didn't. If there's a reason, it's up to them to explain it to me. It's not up to me to drag it out of them. Well, the guy with the wrong number came to my place and we hung out for a while, and I explained to him my problem with this particular girl. We decided to go to the bars, sans women, so I took him home to get ready. I came back to my place and went online to check my email and when I got off, I had a brand new voicemail. Here it is, verbatim.
+
+"Hi Tim, I like your new message. It's funny. Anyway, I'm sorry I didn't call you last night but I ended up not going to Gorman's anyway. I was tired and had a headache so I went to sleep and turned off my phone. Bryan tells me you're going out tonight again, but once again I'm going to bed early. I'll call you tomorrow because we're all going to the Grinch and I want you to come. So, I'll call you tomorrow."
+
+Bryan tells me he said nothing about me being pissed, but that sounds a lot like an "I know your pissed at me" message. Well, we went out and had a good time at the bars, then we stopped by a horrible, boring, stupid party. It was so weak. We were there like 10 minutes then went home. 
+
+So, Sunday I was waiting for a call from that girlfriend. I mean, she ditched me once... she would definitely call, right? I decided what I would do. I would ask her who was going, and if my infatuation was on the list I would go. If not, I would tell her I would meet her there, then not show up. Pretty mature huh? I thought so. 
+
+Well, she didn't call. I think it's a little funny, and now I have this great right to be pissed at her for a long time. Something I'm sure I'll do. Stupid her. I just think it's so bizarre how people can be that insincere and unreliable. I would never dream of promising something as simple as a phone call and not delivering. We had made plans and she broke them. That's fine. I don't want her going out if she has a headache or something, but unplugging the phone is not the way to change plans. A simple phone call saying "Tim, I have a headache. I know I said we would go out, but I just don't feel up to it" would have been fine. I could have made other plans and not spent a Friday night sitting around waiting for a phone call. 
+
+Ah, but such if life.
+
+So that was my weekend. I won't call that girl again for a long time. I hate being ditched and twice in a weekend is unacceptable by anyone's account. It's now her responsibility to call me and apologize. Right? Right.

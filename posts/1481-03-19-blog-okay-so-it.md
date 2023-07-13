@@ -1,0 +1,27 @@
+---
+permalink: "blog/okay-so-it/"
+tags: posts
+title: Okay so it
+date: 2003-03-19
+layout: layouts/post.njk
+---
+
+Okay, so it was my first day at the video production place. That sentence is going to be the last sentence in which I don't complain for many paragraphs, so feel free to skip this whole entry.
+
+Basically, going there this morning and working there all day made me feel absolutely miserable. I was miserable. Completely, totally, horribly sad and miserable. He offered me the $8/hour that I needed to actually accept the job, and I accepted it, knowing full well that I made twice that working at Iona 2 years ago. No benefits, no nothin'. The promise of a raise after 30 days didn't raise my spirits at all.
+
+Now, I admit that I make less than $8/hour at the gallery. But they pay me exactly what that job is worth. It's not a skilled trade. Any high schooler can do it. This job is another story. He admitted that he wanted to tap into my skills, my education, and my experience at Iona to make his company a lot of money. Great, that's expected when you're an employee, but I also expect to be reimbursed for my skills, education, and experience. And I expect to be reimbursed for more than $8/hour. I don't think I'm being cocky or unreasonable. I'm worth more than that.
+
+He mentioned wanting me to do 3D animation and multimedia, including authoring DVDs. I told him that there was no way I was going to do any of that for $8, but I'd be more than happy to do that for him as a contract worker. He told me that he was not going to pay me as an employee and a freelancer, which made sense to both of us. I wouldn't even be complaining if he had offered me $13/hour. But for $8... well, I can't do that kind of work for $8/hour. It's just plain disrespectful to me. 
+
+He gave me a no-competition form to sign, and I read it over and handed it back to him, without my signature. Basically, this thing was signing my life away. It said I couldn't work for any other video production place or multimedia house for 2 years. BULL SHIT. Freelancing is still my numero uno, number one priority, and he knew this going into it. If I can't sell my services to them, then I'm shit outta luck. I'm completely unwilling to have my hands tied with no way to make extra money for a fucking $8/hour job with no benefits. He overlooked this, and I still started.
+
+I hate this job the same way I hated working at Iona. They put me in a room, by myself, staring at a computer screen. I have no input and make no decisions about the job. My creativity and artistic skills are completely overlooked and useless. I dicked around with this god damn wedding, editting it in the most boring and pathetic way possible, all the while completely miserable that I've had to resort to this bullshit. 
+
+I mean, at age 20 I graduated from college and got a job making almost $30K/year. Salaried. With benefits. I hated it after the first couple of months, because I wasn't allowed to be creative or artistic. That was the salesman's job, for some reason. They'd stand over my shoulder and tell me what to do. I hated everything about it, except for the money. After almost a year and a half, I was up to $32K/year, significantly more than most 21 year olds make. Then, I went freelance. My first 6 months in the freelancing world, I made so much money it was unbelievable. I worked all the time, and weeks when I'd make as much as Iona were common. Weeks I made more than Iona were relatively frequent. Weeks that I made in the thousands were rare, but I had a few of them. I was doing great. All of the sudden, the economy crashed and I started doing horribly. I had saved up a couple grand, so I "invested" it into a small business site, custom-art.com, which didn't make me any money at all. In addition to it not making me money, I lost a shitload on it. All my savings dried up quick, and then my credit card bills skyrocketed. People don't realize that it takes money to get a lot of freelancing gigs. You have to print up copies of your portfolio and VHS copies of your demo reel to leave on doorsteps of anyone who may even be remotely interested. When you're broke, you can't do that. As a result, I stopped getting any kind of work at all.
+
+It was a steady decline after that. My return customers stopped returning after their businesses stopped doing well, and month after month, I made less than the previous one. I took the job at Bibo's to make ends meet, which worked for a bit. Then I had to borrow more and more from my dad. Even looking for a full time job again made me sad, since it was admitting defeat in a career where I felt skilled, with something to offer. And now this. It's a slap in the face is what it is, and a wake up call. I hope to God that I can blame these problems on the economy, and not on the fact that I suck at what I do.
+
+Anyway, I'm going to quit tomorrow. Yes, already, because I can't even imagine lasting there for more than a month. I'd be working full time, giving up any chance I had at getting freelance jobs, to make less money per week than I make per night doing murals. So, I'm going to go whore myself around town as a painter/illustrator rather than a multimedia guy and see if I have more luck with that. I don't necessarily want to make millions of dollars. I want to be able to pay my rent and be happy in my career. I think this job at the video production place is a step in the wrong direction, so I ain't gonna take it.
+
+Fuck you, CDSC Video Production!

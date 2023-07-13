@@ -1,0 +1,28 @@
+---
+permalink: "blog/welcome-long-and-disjointed-post-0/"
+tags: posts
+title: Welcome to a long and disjointed post
+date: 2005-06-06
+layout: layouts/post.njk
+---
+
+Okay, so, I've tried to do this post a few different ways and it never works right, so I've given up at even attempting to make it flow properly with some form of continuity. It will be long, entirely skippable, and kind of random. Just the way I like it. 
+
+So we'll start on Friday. Since Fridays (actually, pretty much the whole weekend) are my cheating days, I decided it would be a good idea to get Long John Silver's on my way home from work. I waited 15 or 20 minutes after eating it to take my jog, which wasn't nearly long enough to wait. About 2.5 miles in, I felt like the fish planks could make a violent exit one way or another if I kept up the run. I immediately stopped and walked home, sweaty, miserable, and defeated. 
+
+That night was Kouri's with my boys. It was an interesting night, and rather than avoid the issue that I was kind of an asshole, I'll just come right out and say it: I was kind of an asshole. I was kind of in a bad mood anyway, and feeling kind of creatively frustrated in my current job, and kind of starting to doubt that I'm in the right field for myself, and kind of starting that "frustrated with my career" type feelings I get every once in a while. Hearing that some people think my job is something "anyone can do" was... well... not a pleasant thing for me to hear. I kind of overreacted to it, I guess. But in my defense, I spent a ton of money and 2 miserable years in Chicago learning how to do my job better than most people could. I've got years of experience when it comes to web/multimedia design. And I'm one of those people who believe that web design takes some amount of natural skill and talent and a good eye in addition to just simple HTML coding. Having someone say anyone can do it with assisstance from a pirated copy of DreamWeaver isn't pleasant. I spent the rest of the weekend thinking about what was said, and have come to some conclusions. 
+
+Yes, DreamWeaver makes web design "easy". Or at least easier than it was when I was learning how to do it. However, I still don't believe anyone could do it, even with help from DreamWeaver. However, to be honest, this doesn't matter. When I tell people I'm a web designer, I never for a second thought that people would think to themselves that my job is something of an "unskilled" nature. This isn't an invitation for people to tell me otherwise... I know better. But the fact that someone could equate my job to stocking shelves at Blockbuster video (ya know, something anyone can do) is a bit insulting. And knowing that at least some of the population thinks that when they hear what I do to pay my bills and, ya know, survive kind of stings. Maybe it shouldn't, but it does. 
+
+So, my conclusion to it all... re-explore the possibilities of freelancing. Not freelance web design, but real, actual art. Of the hand-drawn variety. I realize this is less of a learned skill than web design, but it's unlikely that people would say its something "anyone can do". Or even think it, which is just as bad. And hopefully that will make me less creatively frustrated, put some extra money in my pocket, and be something interesting to talk about if people ask what I do, rather than me get defensive about my current position. And that's that. 
+
+Anyway, moving on... Saturday I woke up and tried to do my morning jog. I didn't even make it as far as I did on Friday, due to the nastily hot weather. I'm not a big sweater (as in, guy who sweats, not article of clothing), but my shirt was soaking wet by the end and I couldn't keep my glasses on my face, and my sweat was dripping into my eyes and blinding me. I gave up and walked home. I wasted the rest of the day cleaning, doing laundry, and other normal Saturday type things. That night me and Angie went to Avanti's and mini-golfing. Since I haven't been using my sweet moblog as often as I should, [here's a video][1] of Angie being a professional golfer, and [one of me completely missing par][2]. That quote at the end is "Well, I'm closer than I was." I went to bed early to rest up for the practice Steamboat Days race the next day. 
+
+So I start the race and I think I'm doing fairly well, pulling ahead of most of the crowd relative early on. As we pass the first mile mark, I ask the guy next to me how we're doing on time. "9:20", he replies. Doing some quick math in my head, I realize there's no way to hit 35 minutes doing over 9 minute miles. I kicked it up a notch, passing more people (my favorite activity) and finished it in... drumroll.... 34:48. Out of the 45ish people running that morning, I finished 6th. Not too shabby, but also not at all indicative of my placement on Saturday. I reckon on race day I'll finish in the bottom 25% somewhere, but as long as its under 35:00, I'll be satisfied with it. To anyone wanting to see me sweaty and nasty and running, you're more than invited to head down near the river early on Saturday morning. I hear there's a beer tent at the finish line if you need some extra encouragement. 
+
+So I got home and took Winnie for a long walk in the park. She seemed to enjoy it. I went out to lunch with Fabish and Amy, and out to dinner with Angie, Alan, and Brynn. It had been way too long since I saw Brynn, and we had a marvelous time at dinner. 
+
+That was my weekend. And this has been an extremely long and disjointed post.
+
+ [1]: http://www.tim.cx/mob/big.php?img=44&pg=1
+ [2]: http://www.tim.cx/mob/big.php?img=45&pg=1

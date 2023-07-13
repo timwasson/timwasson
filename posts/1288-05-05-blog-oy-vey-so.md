@@ -1,0 +1,21 @@
+---
+permalink: "blog/oy-vey-so/"
+tags: posts
+title: Oy vey. So
+date: 2003-05-05
+layout: layouts/post.njk
+---
+
+Oy vey. So, a couple of things to preserve for myself and no one else. I'm concerned about Jaimee's feelings, so this is a private post. She seems unconcerned about my feelings, so I don't know why I'm bothering, but there ya go.
+
+So, I went into deliver a portrait to an investment banker. While there, he sat me and his assisstant down, and basically interviewed me for a date with her. I thought it was funny, she was really humiliated. At the end of this session, he set us up on a date and gave us money to go out with. We saw Identity, then spent a couple hours at IHOP just talking. It was fun. It was good. She's a cool girl and I like her a lot. The only real issue I see is that she has a 2 year old girl.
+
+I don't want to be one of those guys who writes off a person just because they have a kid. I think I'm over that. But, I do want to do this more carefully because of it. See, I think it's okay for me to date a girl for a month or so and come to the conclusion that we're not a good couple, then just call it a day. When you juggle a daughter in there, it's a harder situation. I don't want to date her for a month or 2, get attached to her daughter and have her attached to me before leaving. That seems unfair. So, I'm just going to go extremely slow and extremely carefully. We'll go out as friends for a while and meet each other's friends. I like meeting new people and I always need more friends, so that will be good no matter what. If we decide to make it romantic, we'll be damn sure that we're going to be romantic for a while. The other concern is that she weighs 84 pounds. Literally. My goal weight is twice her size. That makes me feel really fat, but I have a feeling I can get over that pretty quickly.
+
+So, the Jaimee situation. I don't want to tell her any of this, despite the understanding that I'll never see her again as long as we live. I've accepted that, and so has she. We'll never see each other. We'll never be together again. We were talking on the phone yesterday and she brought up me living in Peoria, and added the phrase "for the rest of your life", all sarcastic as if it were a bad thing. I don't think it is. She also said she was going to try to get me to leave. What a horrible thing to say.
+
+I don't hate Peoria as much as a lot of people do. I like having roots here, and a past. I like driving by an intersection and having a story about it. I like going out on weekends and running into people I knew from years and years ago. I like having something in common with a lot of people. I like knowing the same people other people know. I like knowing where stuff is. I love having the history I have with my friends. Me and Fabish have a 23 year history. I will never have that with anyone else for the rest of my life. I'll never grow up with anyone else, and I like the security of knowing he's going to be there. Even some of my newest friends, like Alan, I've known for 4 or 5 years. That's an awesome feeling. Why would I leave that? How could I? How could I leave and not watch my nephew grow up? How could I not be there for my dad when he needs me? 
+
+That stuff makes me happy. Sure, Peoria isn't the best city in the world, but it's my city. I know it well. I have stories here, and a past. My career is blooming. I'm happy here. I like it. I don't want to start over. I want my past and my present to be the same. I can't imagine that living in 1 town your entire life can be considered bad or wrong. I think what Jaimee does is wrong. Leaving everywhere and everyone she knows every 8 or 10 months? How is that a way to live your life? Having your best friends live thousands of miles away? Talking to them on the phone once a month and being content to call that a friendship? Why and how does she consider that healthy? My life is better than hers. I wanted to give her the stability and the roots, and she wanted to give me the instability of moving all the time. No thanks.
+
+I've never been so sure that it was over between me and her than I was last night on the phone. And that's a shame.

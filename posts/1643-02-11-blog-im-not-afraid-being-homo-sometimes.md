@@ -1,0 +1,33 @@
+---
+permalink: "blog/im-not-afraid-being-homo-sometimes/"
+tags: posts
+title: I'm not afraid of being a homo... sometimes.
+date: 2003-02-11
+layout: layouts/post.njk
+---
+
+AKA - The post where Tim stops being a cocky fuck.  
+AKA - The post where Tim stops trying to be funny all the time.  
+AKA - The post that a lot of Tim's friends would never want to read.
+
+I have kind of a reputation, especially with friends who have known me more than 5 or 6 years, of being an asshole. I'm kind of cocky. I never let things bother me. I make sarcastic comments at innappropriate times. I make fun of everyone relentlessly, especially my good friends. For the most part, I have a "whatever" attitude. I'm apathetic about most things. But shit, man, every once in a while, a guy has to be sensitive and girly. And now is my time. So brace yourselves. And those of you who would prefer not see me in any other light besides the guy described above, feel free to skip this post.
+
+I just dropped Jaimee off at the train station, then came home and took a bath and thought about the things that have happened in the past week or so.
+
+In the past week, both Jaimee and I have been out of work and been together almost the entire time. I never thought I'd ever meet a person whose company I never got tired of. Even after days and days and nights and nights together, I didn't want her to leave. I wanted to go with her to help her pack even though I'd just get in the way and slow things down. I never thought I'd have anything as good as what we have together.
+
+The past few months have been rough for both of us. I'm unemployed and making basically no money. She hated her job. In the past few months, she's made the decision to move a couple of different times, and we always talked our way out of it. "Well, it will be different when you get your raise". "It will be different when you get your Christmas bonus." "You'll have another job in a week or 2". "Let's give it another month and see what happens". Nothing ever seemed to work out for us, and things were stacked up against us. Bad financial situations for both of us, a crappy car for Jaimee, no way for me to help her in any way that required money. So after a couple of times backing out of moving to New Mexico, the decision was made.
+
+I wasn't happy with it. I never was. I resented Jaimee's mom for making it so easy for her to move there and so hard for her to stay with me, where she belonged. I fucking hated it that she poked and prodded Jaimee to move thousands of miles away from me in public forums, including here on LiveJournal. And I fucking hated more than anything that she referred to Jaimee as single. But maybe she was right. Maybe moving in with mom, getting rid of monthly bills, and focusing on her debt would be a good move. Even though I didn't want her gone, maybe it was the right choice. I know from experience that you can't hate your job because it makes your life suck. I know from experience that driving a crappy car and having big credit card debt sucks ass, and having parents who aren't helping would suck even more. I understood.
+
+So today was the big day. Jaimee and I spent the day hugging each other on her couch and watching Trading Spaces. I was just trying to memorize everything. How she looked, how she smelled, how she felt. Things she said, moves she made, expressions. For once, even her hair tickling my face didn't bother me. I was just soaking it all in one last time.
+
+I'm under the impression that 2 people who love each other as much as me and Jaimee shouldn't ever be apart. That's just ridiculous. I'm not a religious man, but I can't believe that God would let it happen. I mean, Jaimee and I are perfect for each other. Everyone sees it and tells me about it. I know they're right. We're happy. We don't fight. We love each other. How is a fucking thing like money ripping us so far apart? How does that happen? How did we let it happen? How can we stop it? What can we do? I've never felt so helpless and confused, but I had to put on a brave face. This was a decision that was made logically, and it made sense to me. I can't let stupid things like emotions get in the way of the "right" thing to do.
+
+So anyway, I drove Jaimee to Galesburg, to the train station. The drive didn't take nearly long enough. Even though we didn't talk much, I didn't want the drive to end. I knew the destination was New Mexico, but I wanted her to stay in the car with me forever. 
+
+Things went wrong at the train station. The bag situation was sketchy, and Jaimee lost her ticket. There was a huge snow storm. They were signs for her to stay. Jaimee knew it, and even though I was less confident, I wanted so badly for it to be true. She wanted to come back to Peoria with me, but I talked her out of it. Sort of. When you're desperate, anything is a sign. We've spent the last few months praying, waiting, and hoping for something to happen to let her stay, and nothing did. I didn't want to delay the innevitable, you know? I mean, I felt closer and closer to her every day (another thing I never thought would happen), and I didn't want to get even closer before having her ripped away from me. She's going to be back in 6 months, and I would prefer that she be back forever 6 months from now than 6 months from 6 months from now, if that makes sense. Logically, I know that her leaving was best, financially speaking. But fuck me, I can't stop feeling like a miserable human being for not driving her back when she first asked me to. How the fuck could I put the girl I love on a train going thousands of miles away when she just asked me to take her home? What the fuck am I doing? Why did I do that?
+
+So here I sit, surrounded by memories of her, not to mention her bed and couch and some clothes and other things. I just keep thinking about standing out on the train platform, snowing, with my hands in my pockets, watching Jaimee through the train window, going away from me. It was like a movie. The saddest fucking movie ever made. And I think that if I handled it differently, it wouldn't have had to happen. And I think that I won't see my girlfriend for months. 
+
+But, I'm confident that she'll be back in 6 months, tops, and things will be great. She'll move in with me, and we'll be a happy couple again, and my friends will tell her that they're glad she's back because I've been lonely and depressy since she's been gone. And things will be good. She'll make me dinner sometimes, and I'll have a job, and she'll have a job she likes. We'll have Winnie and she'll be happy that her mama is back to stay. And that's about all I have to say about it.

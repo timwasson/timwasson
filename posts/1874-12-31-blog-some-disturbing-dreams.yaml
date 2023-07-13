@@ -1,0 +1,8 @@
+meta:
+    title: 'Test Title'
+    description: "\npermalink: \"blog/some-disturbing-dreams/\"\ntags: posts\ntitle: Some disturbing dreams.\ndate: 2001-12-31\nlayout: layouts/post.njk"
+    author: timwasson
+    created: '2020-04-30'
+    time: 20-14-26
+    navtitle: '12 31 blog some disturbing dreams'
+    modified: '2020-04-30'
