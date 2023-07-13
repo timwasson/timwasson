@@ -28,8 +28,8 @@ jobs:
         npm run build:prod
     # When the dist_dir is ready, deploy it to neocities
     - name: Deploy to neocities
-      uses: bcomnes/deploy-to-neocities@v1
+      uses: jonchang/deploy-neocities@master
       with:
         api_token: ${{ secrets.NEOCITIES_API_TOKEN }}
-        cleanup: true
+        cleanup: false
         dist_dir: _site
