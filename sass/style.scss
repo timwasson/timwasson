@@ -1,5 +1,9 @@
 @import '../node_modules/bootstrap/scss/bootstrap.scss';
 
+body {
+  background-color: #000;
+}
+
 /* Homepage */
 .homepage.jumbotron {
   
@@ -8,17 +12,10 @@
     background-image: url("../img/loadingbg.svg");
     background-size: cover;
     background-position: center;
-    filter: blur(10px);
     height: calc(100% + 20px);
     left: -10px;
-    transition: filter .5s;
     top: -10px;
     width: calc(100% + 20px);
-  }
-  &:hover {
-    .jumbobg {
-      filter: blur(0);
-    }
   }
 }
 .logo {
@@ -28,4 +25,56 @@
     fill: white;
     max-width: 300px;
   }
+}
+
+.font-pixel {
+  font-family: 'VT323', monospace;
+}
+
+.btn.old-school {
+  background-color: rgb(189, 189, 189);
+  border-radius: 0;
+  border-width: 3px;
+  border-left-color: white;
+  border-top-color: white;
+  border-right-color: black;
+  border-bottom-color: black;
+  color: white;
+  font-family: 'VT323', monospace;
+  text-decoration: none;
+  text-shadow: black 2px 2px;
+  text-transform: uppercase;
+}
+
+.logo-bg { 
+  height: 100%;
+  width: 100%;
+  
+background: linear-gradient(124deg, #ff2400, #e81d1d, #e8b71d, #e3e81d, #1de840, #1ddde8, #2b1de8, #dd00f3, #dd00f3);
+background-size: 1800% 1800%;
+
+-webkit-animation: rainbow 18s ease infinite;
+-z-animation: rainbow 18s ease infinite;
+-o-animation: rainbow 18s ease infinite;
+  animation: rainbow 18s ease infinite;}
+
+@-webkit-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-moz-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@-o-keyframes rainbow {
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
+}
+@keyframes rainbow { 
+    0%{background-position:0% 82%}
+    50%{background-position:100% 19%}
+    100%{background-position:0% 82%}
 }

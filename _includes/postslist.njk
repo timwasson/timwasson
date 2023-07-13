@@ -1,9 +1,9 @@
 {% for post in postslist | reverse %}
-  <div class="card">
-    <div class="card-body">
+  <div class="">
+    <div class="text-light font-pixel">
       <a href="{{ post.url | url }}" class="card-title">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-      <time class="card-subtitle mb-2 text-muted" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
-      <p class="card-text">{{ post.template.frontMatter.content | safe | striptags(true) | truncate(256) }}</p>
+      <time class="" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+      <p class="">{{ post.template.frontMatter.content | safe | striptags(true) | truncate(256) }}</p>
       {% for tag in post.data.tags %}
         {%- if tag != "posts" -%}
         {% set tagUrl %}/tags/{{ tag }}/{% endset %}

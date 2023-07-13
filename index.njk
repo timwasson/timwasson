@@ -16,19 +16,6 @@ navtitle: Home
 </div>
 <div class="container">
   <div class="row">
-    <div class="card-deck">
-      {% set postslist = collections.posts | head(-3) %}
-      {% include "postslist.njk" %}
-    </div>
+    <a href="archive" class="btn btn-link old-school mt-3 fs-3">Go to the blog archive</a>
   </div>
 </div>
-
-<script>
-  $.ajax({
-    url: "https://www.instagram.com/wasson/?__a=1",
-  })
-  .done(function( data ) {
-    $(".homepage.jumbotron .jumbobg")
-      .css("background-image","url(" + data.graphql.user.edge_owner_to_timeline_media.edges[Math.floor(Math.random()*10)].node.display_url + ")");
-  });
-</script>

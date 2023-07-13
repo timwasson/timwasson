@@ -1,0 +1,12 @@
+---
+layout: layouts/base.njk
+templateClass: tmpl-home
+---
+<div class="col-4">
+    {% include "nav.njk" %}
+</div>
+<div class="col-8">
+    <main{% if templateClass %} class="{{ templateClass }}"{% endif %}>
+        {{ content | safe }}
+    </main>
+</div>
