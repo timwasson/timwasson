@@ -30,6 +30,6 @@ jobs:
     - name: Deploy to neocities
       uses: bcomnes/deploy-to-neocities@v1
       with:
-        api_token: ${{ secrets.NEOCITIES_API_KEY }}
+        api_token: c97241d3f377caf6e5f9996f6cec8f08
         cleanup: false
         dist_dir: _site
