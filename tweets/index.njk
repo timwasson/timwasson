@@ -17,8 +17,9 @@ navtitle: Tweets
 {% for post in postslist | reverse %}
   <div class="">
     <div class="text-light font-pixel">
-      <a href="{{ post.url | url }}" class="card-title">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
-      <time class="" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+      <a href="{{ post.url | url }}" class="card-title">
+        <time class="" datetime="{{ post.date | htmlDateString }}">{{ post.date | monthYear }}</time>
+      </a>
     </div>
   </div>
   <hr class="post-separator">

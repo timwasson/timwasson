@@ -21,6 +21,10 @@ module.exports = function(eleventyConfig) {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("EEEE, MMMM dd, yyyy");
   });
 
+  eleventyConfig.addFilter("monthYear", dateObj => {
+    return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat("MMMM yyyy");
+  });
+
   // https://html.spec.whatwg.org/multipage/common-microsyntaxes.html#valid-date-string
   eleventyConfig.addFilter('htmlDateString', (dateObj) => {
     return DateTime.fromJSDate(dateObj, {zone: 'utc'}).toFormat('yyyy-LL-dd');

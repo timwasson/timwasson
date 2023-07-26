@@ -1,0 +1,23 @@
+---
+layout: layouts/archive.njk
+templateClass: tmpl-post
+---
+<div class="jumbotron jumbotron-fluid">
+  <div class="container">
+    <h1 class="text-light font-pixel">TWITTER!</h1>
+    <p class="text-small font-pixel text-light">This is an archive of my twitter from {{ date | monthYear }}.</p>
+    {% if date %}
+    <time class="card-subtitle mb-2 text-light font-pixel" datetime="{{ date | htmlDateString }}">{{ date | readableDate }}</time>
+    {% endif %}
+  </div>
+</div>
+
+<div class="container">
+  <div class="row">
+    <div class="col-12 text-light font-pixel">
+      {{ content | safe }}
+    </div>
+  </div>
+</div>
+
+<p><a href="{{ '/' | url }}">← Home</a></p>
