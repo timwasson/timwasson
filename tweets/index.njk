@@ -1,0 +1,25 @@
+---
+layout: layouts/post.njk
+tags:
+  - nav
+navtitle: Tweets
+---
+{# Only have tweets from 2008-2020, added 1 duh #}
+{# 
+{% for i in range(2008,2021) -%}
+  <a href="{{ i }}/">{{ i }}</a>
+{%- endfor %}
+#}
+
+{% set postslist = collections['tweets'] %}
+<h1><strike>Twitter</strike> X posts</h1>
+<p>Remember the times before Twitter was a rotten cesspool? I do. And I took my data back with help from <a href="https://github.com/timhutton/twitter-archive-parser">this parsing tool</a> which made all my old tweets markdown files. Then I build them the same way I build the rest of the site, using <a href="https://www.11ty.dev">11ty</a>
+{% for post in postslist | reverse %}
+  <div class="">
+    <div class="text-light font-pixel">
+      <a href="{{ post.url | url }}" class="card-title">{% if post.data.title %}{{ post.data.title }}{% else %}<code>{{ post.url }}</code>{% endif %}</a>
+      <time class="" datetime="{{ post.date | htmlDateString }}">{{ post.date | readableDate }}</time>
+    </div>
+  </div>
+  <hr class="post-separator">
+{% endfor %}
