@@ -43,6 +43,7 @@ module.exports = function(eleventyConfig) {
 
   eleventyConfig.addPassthroughCopy("img");
   eleventyConfig.addPassthroughCopy("css");
+  eleventyConfig.addPassthroughCopy("admin");
 
   /* Markdown Plugins */
   let markdownIt = require("markdown-it");

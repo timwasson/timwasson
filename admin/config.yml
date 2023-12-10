@@ -1,0 +1,21 @@
+backend:
+  name: git-gateway
+  branch: master # Branch to update (optional; defaults to master)
+
+# These lines should *not* be indented
+media_folder: "/img/uploads" # Media files will be stored in the repo under static/images/uploads
+public_folder: "/img/uploads" # The src attribute for uploaded media will begin with /images/uploads
+
+collections:
+  - name: "posts"
+    label: "Post"
+    folder: "posts"
+    filter:
+      field: language
+      value: en
+    fields:
+      - {label: "Title", name: "title"}
+      - {label: "Permalink", name: "permalink"}
+      - {label: "Tags", name: "tags"}
+      - {label: "Date", name: "date"}
+      - {label: "Layout", name: "layout"}
